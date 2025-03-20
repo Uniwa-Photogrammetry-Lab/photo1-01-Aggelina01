@@ -92,6 +92,7 @@ To learn more about following users, read ["Following People"](https://docs.gith
 GitHub Explore is a great place to do just that … explore :smile: You can find new projects, events, and developers to interact with.
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you interact with GitHub the more tailored your Explore view will be. 
+[askisi1.pdf](https://github.com/user-attachments/files/19376260/askisi1.pdf)
 
 ## 📝 Optional next steps 
 
@@ -107,8 +108,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 * [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
 * [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
-* [GitHub's L[askisi1.pdf](https://github.com/user-attachments/files/19376229/askisi1.pdf)
-earning Lab](https://lab.github.com/)
+* [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
 [askisi1.pdf](https://github.com/user-attachments/files/19376193/askisi1.pdf)
