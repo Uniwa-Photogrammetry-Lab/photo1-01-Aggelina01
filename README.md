@@ -111,4 +111,4 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
-[askisi1.pdf](https://github.com/user-attachments/files/19376193/askisi1.pdf)
+
